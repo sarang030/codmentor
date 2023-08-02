@@ -7618,7 +7618,7 @@ div.tp-bullet:hover {
 }
 
 .technology-v4 {
-  background-image: url(images/background/bg-s1-home4.jpg);
+  background-image: url(../images/slide3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -17909,4 +17909,66 @@ margin-bottom: 30px;
 .about-offer{
   padding-top: 6rem!important;
     padding-bottom: 6rem!important;
+}
+.service-page-header{
+   
+    width: 100%;
+    min-height: 600px;
+    color: #f47b06;
+    font-weight: 800;
+
+}
+.service-page-header {
+  font-family: "poppins";
+  background-image: url(../images/slide3.jpg);
+  background-color: #211F3B;
+  opacity: 90%; 
+}
+.page-title-services{
+
+  color: #fff;
+    /* text-transform: uppercase; */
+}
+#breadcrumbs-1{
+  margin-bottom: 0;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.content-media-4__header-content {
+  height: min-content;
+  position: sticky;
+  top: 150px;
+}
+.content-media-4__team-member {
+  align-items: center;
+  display: flex;
+  gap: var(--gap-md);
+  margin: 0 0 80px;
+  padding-top: ;
+  text-align: center;
+  
+}
+.content-media-4__photo {
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+  object-fit: cover;
+  width: 180px;
+}
+.content-media-4 {
+  display: grid;
+  gap: 120px;
+  grid-template-columns: 320px 1fr;
+}
+
+.content-media-4__text {
+  text-align: left;
+}
+
+.app-service1 {
+  background-color: #091636;
+  background-image: url(../images/bg.png);
+  background-position: 0 135px;
+  height: 600px;
+  background-repeat: no-repeat;
 }
