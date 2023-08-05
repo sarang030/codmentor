@@ -15499,7 +15499,7 @@ color: #fff;
 }
 
 .team-14 {
-  background-color: #1C0A27;
+  background-color: #091636;
   background-image: url(images/background/home14-bg8.jpg);
   background-position: top center;
   background-repeat: no-repeat;
@@ -18021,9 +18021,9 @@ margin-bottom: 30px;
 
 
 .process-item.active .process-item__content:before {
-  border-color: #054c8b;
-  background-color: #054c8b;
-}
+   /* border-color: #054c8b; */
+  /* background-color: #054c8b;  */
+} 
 
 .process-item .process-item__content:before {
   content: "\f00c";
@@ -18093,13 +18093,13 @@ margin-bottom: 30px;
 }
 
 .heading__title {
-  font-size: 36px;
+  font-size: 35px;
   margin-bottom: 20px;
   color: #fff;
 }
 
 
-.video__btn-white .video__player {
+/* .video__btn-white .video__player {
   background-color: #fff!important;
   color: #1f314f;
 }
@@ -18118,19 +18118,19 @@ margin-bottom: 30px;
   box-shadow: 0 0 0 7px rgba(255,255,255,.25);
   -webkit-transition: all .3s linear;
   transition: all .3s linear;
-}
+} */
 .work-process .video__banner .video__btn {
   position: absolute;
   right: 50px;
   bottom: 50px;
 }
-.video__btn {
+/* .video__btn {
   text-align: center;
   display: inline-block;
   position: relative;
   padding-left: 70px;
   height: 60px;
-}
+} */
 .btn__primary {
   background-color: #0092ff;
   color: #fff;
