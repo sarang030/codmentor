@@ -5535,7 +5535,7 @@ object {
 
 .ot-counter span {
   font-size: 38px;
-  font-weight: 700;
+  font-weight: 800;
   line-height: 52px;
   font-family: "Montserrat", sans-serif;
 }
@@ -6251,13 +6251,13 @@ object {
   width: 65px;
   height: 65px;
   display: inline-block;
-  background: #F7A14E;
+  /* background: #F7A14E; */
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   text-align: center;
   line-height: 65px;
-  color: #4c4c4c;
+  color: #fff;
 }
 
 .video-popup a i {
@@ -7190,10 +7190,10 @@ div.tp-bullet:hover {
 
 .section-business {
   padding-top: 90px;
-  background-color: #F2F2F2;
+  background-color: #F2F5FA;
 }
 .bg-light-1 {
-    background-color: #F8F8F8;
+    background-color: #F2F5FA;
 }
 .section-clent-h2 {
   padding: 200px 0px 0px 0px;
@@ -7637,8 +7637,9 @@ div.tp-bullet:hover {
 }
 
 .news-v4 {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #fff;
 }
 
 .nav-home-4.tparrows {
@@ -7740,7 +7741,7 @@ div.tp-bullet:hover {
 
 .top-v5 {
   background-color: #0E0A31;
-  background-image: url(images/background/bg-banner-home5.png);
+  background-image: url(../images/banner-home3.jpg);
   background-position: bottom center;
   background-repeat: no-repeat;
   padding: 265px 0 170px 0;
@@ -8764,8 +8765,8 @@ ul.style-2 li i {
   /* background-image:url("images/bg.png") */
   background-position: bottom right;
   background-repeat: no-repeat;
-  padding-top: 0;
-  padding-bottom: 100px;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .octf-btn-primary-outline {
@@ -10085,7 +10086,7 @@ body.font-9,
 }
 
 .app-dev-i9 {
-  background-color: #091636;
+  background-color: #F2F2F2;
   background-image: url(images/background/bg2-home9.png);
   background-position: 0 135px;
   background-repeat: no-repeat;
@@ -10139,9 +10140,9 @@ body.font-9,
 .icon-box-s2.i9 .icon-main {
   position: relative;
   color: #67FBAE;
-  font-family: "Poppins", Sans-serif;
-  font-weight: 500;
-  margin-bottom: 47px;
+  font-family: "Montserrat", Sans-serif;
+  font-weight: 600;
+  margin-bottom: 30px;
   font-size: 24px;
 }
 
@@ -10152,7 +10153,7 @@ body.font-9,
 .icon-box-s2.i9 .content-box h5 {
   margin-bottom: 24px;
   font-family: "Poppins", Sans-serif;
-  font-size: 24px;
+  font-size: 23px;
   font-weight: 500;
   line-height: 36px;
   color: #FFF;
@@ -10781,8 +10782,8 @@ body.font-9,
   }
 
   .app-dev-i9 {
-    padding-top: 145px;
-    padding-bottom: 240px;
+    padding-top: 120px;
+    padding-bottom: 120px;
   }
 
   .cta-i9 {
@@ -15321,7 +15322,7 @@ color: #fff;
 }
 
 .token-14 {
-  background-color: #F8F8F8; 
+  background-color: #f2f2f2; 
   background-image: url(images/background/home14-bg6.jpg);
   background-position: center center;
   background-repeat: no-repeat;
@@ -15513,8 +15514,8 @@ color: #fff;
   background-image: url(images/background/home14-bg8.jpg);
   background-position: top center;
   background-repeat: no-repeat;
-  padding-top: 4rem!important;
-    padding-bottom: 4rem!important;
+  padding-top: 120px!important;
+    padding-bottom: 120px!important;
   
 }
 
@@ -17918,8 +17919,8 @@ margin-bottom: 30px;
 
 }
 .about-offer{
-  padding-top: 6rem!important;
-    padding-bottom: 6rem!important;
+  padding-top: 120px!important;
+    padding-bottom: 120px!important;
 }
 .service-page-header{
    

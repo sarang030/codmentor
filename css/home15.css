@@ -112,7 +112,7 @@ p {
     font-weight: 500;
     text-transform: capitalize;
     line-height: 24px;
-    background-color: #2377FC;
+    background-color: #F7A14f;
     border-radius: 5px 5px 5px 5px;
 }
 .octf-btn.octf-btn-primary:hover {
@@ -288,7 +288,7 @@ hr {
 .icounter-title {
     color: #6B7281;
     font-family: "DM Sans", Sans-serif;
-    font-size: 16px;
+    font-size: 21px;
     font-weight: 500;
     line-height: 28px;
 }
