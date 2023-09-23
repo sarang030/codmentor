@@ -123,7 +123,7 @@ hr {
 	margin: 0;
 }
 .top h3 {
-	color: #0B1E46;
+	color: #fff;
     font-family: "DM Sans", Sans-serif;
     font-size: 13px;
     font-weight: 700;
@@ -131,6 +131,10 @@ hr {
     letter-spacing: 0.05em;
     margin-bottom: 0;
 }
+.top{
+    background-color: #141d38;
+  }
+  
 .gallery .gallery-item {
 	padding: 0;
 }
