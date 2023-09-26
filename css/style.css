@@ -7785,6 +7785,16 @@ div.tp-bullet:hover {
   padding: 265px 0 170px 0;
 }
 
+
+
+.top-v5p {
+  background-color: #0E0A31;
+  background-image: url(../images/prhead.jpg);
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  padding: 265px 0 170px 0;
+}
+
 .top-left-v5 .ot-heading {
   margin: 0 -60px 0 0;
   padding: 0 0 20px 0;
@@ -7825,7 +7835,7 @@ div.tp-bullet:hover {
 
 .top-v5s {
   background-color: #0E0A31;
-   background-image: url(../images/sls.jpeg); 
+   background-image: url(../images/home15-image3.jpg); 
   background-position: bottom center;
   background-repeat: no-repeat;
   padding: 265px 0 170px 0;
@@ -15548,7 +15558,7 @@ color: #fff;
 .roadmap-item p {
   color: #4c4c4c;
   font-family: "Sora", Sans-serif;
-  font-size: 16px;
+  font-size: 15px;
 }
 
 .roadmap-item:after {
