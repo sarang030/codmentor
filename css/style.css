@@ -1466,7 +1466,7 @@ a:active {
   width: 0;
   bottom: -1px;
   right: 0;
-  /* background: #f47b06; */
+  background: #F7A14E; 
   content: "";
   display: block;
   transition: all 0.3s linear;
@@ -11787,9 +11787,6 @@ body.i11,
   background: #357BFE;
 }
 
-li .active {
-  background: #f5f5f5;
-}
 .btn-host-head {
   font-family: 'Gothic A1', sans-serif;
   font-size: 14px;
